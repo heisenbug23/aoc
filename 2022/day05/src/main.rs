@@ -80,7 +80,7 @@ fn part1(rows: &Vec<String>) -> String {
 }
 
 fn part2(rows: &Vec<String>) -> String {
-    return doit(rows, |stack, values| { stack.extend(&values) });
+    return doit(rows, |stack, values| { stack.extend(values.iter()) });
 }
 
 fn main() {
