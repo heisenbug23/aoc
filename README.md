@@ -9,3 +9,4 @@ i.e. the solutions may not be the best way to implement it but for me to learn.
 |----|--------|
 |2022|Rust    |
 
+This repo doesn't contain any input files, see the [wiki on reddit](https://reddit.com/r/adventofcode/wiki/faqs/copyright/inputs) for details.
